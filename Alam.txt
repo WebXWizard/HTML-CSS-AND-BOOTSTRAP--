@@ -8,3 +8,8 @@ Second Day-Flexbox + HW
 Third Day-Grid Model+HW
 
 Fourth Day-- Using Html Css and Bootstrap ---Creating Landing Page.....
+      
+      Header 
+      Nav Bar 
+      Footer
+      
