@@ -9,7 +9,8 @@ Third Day-Grid Model+HW
 
 Fourth Day-- Using Html Css and Bootstrap ---Creating Landing Page.....
       
-      Header 
-      Nav Bar 
-      Footer
+      Header-Complelete
+      About Section-Half Complelete
+      Nav Bar-Complelete
+      Footer-Complelete
       
