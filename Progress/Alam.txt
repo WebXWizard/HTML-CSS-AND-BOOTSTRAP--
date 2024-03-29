@@ -9,13 +9,13 @@ Third Day-Grid Model+HW
 
 Fourth Day-- Using Html Css and Bootstrap ---Creating Landing Page.....
       
-      Header-Complelete
-      About Section-Half Complelete
-      Nav Bar-Complelete
-      Footer-Complelete
+      Header-Complete
+      About Section-Half Complete
+      Nav Bar-Complete
+      Footer-Complete
+      Video Section-Complete
       
-
-     
+Fifth Day-- Landing Page Completed---     
 
 
 
@@ -23,117 +23,4 @@ Fourth Day-- Using Html Css and Bootstrap ---Creating Landing Page.....
 
 
              
-              <!-- Foooter Section Copy Paste-- -->
-      <footer class="page-footer font-small mdb-color lighten-3 ">
-        <div class="container">
-      
-          <!--Grid row-->
-          <div class="row">
-      
-            <!--Grid column-->
-            <div class="col-lg-2 col-md- mb-4">
-      
-              <!--Image-->
-              <div class="view overlay z-depth-1-half">
-                <img src="https://www.pngall.com/wp-content/uploads/15/Jujutsu-Kaisen-PNG-Images.png" class="img-fluid"
-                  alt="">
-                <a href="">
-                  
-                  <div class="mask rgba-white-light"></div>
-                </a>
-              </div>
-      
-            </div>
-            <!--Grid column-->
-      
-            <!--Grid column-->
-            <div class="col-lg-2 col-md-6 mb-4">
-      
-              <!--Image-->
-              <div class="view overlay z-depth-1-half">
-                <img src="https://www.pngall.com/wp-content/uploads/15/Jujutsu-Kaisen-PNG-Photos.png" class="img-fluid"
-                  alt="">
-                <a href="">
-                  
-                  <div class="mask rgba-white-light"></div>
-                </a>
-              </div>
-      
-            </div>
-            <!--Grid column-->
-      
-            <!--Grid column-->
-            <div class="col-lg-2 col-md-6 mb-4">
-      
-              <!--Image-->
-              <div class="view overlay z-depth-1-half">
-                <img src="https://www.pngall.com/wp-content/uploads/15/Jujutsu-Kaisen-PNG-Image.png" class="img-fluid"
-                  alt="">
-                <a href="">
-                  
-                  <div class="mask rgba-white-light"></div>
-                </a>
-              </div>
-      
-            </div>
-            <!--Grid column-->
-      
-            <!--Grid column-->
-            <div class="col-lg-2 col-md-12 mb-4">
-      
-              <!--Image-->
-              <div class="view overlay z-depth-1-half">
-                <img src="https://www.animeexplained.com/wp-content/uploads/2023/11/Geto-e1700041225193.png" class="img-fluid"
-                  alt="">
-                <a href="">
-                  
-                  <div class="mask rgba-white-light"></div>
-                </a>
-              </div>
-      
-            </div>
-            <!--Grid column-->
-      
-            <!--Grid column-->
-            <div class="col-lg-2 col-md-6 mb-4">
-      
-              <!--Image-->
-              <div class="view overlay z-depth-1-half">
-                <img src="https://www.pngall.com/wp-content/uploads/15/Jujutsu-Kaisen.png" class="img-fluid"
-                  alt="">
-                <a href="">
-                
-                  <div class="mask rgba-white-light"></div>
-                </a>
-              </div>
-      
-            </div>
-            <!--Grid column-->
-      
-            <!--Grid column-->
-            <div class="col-lg-2 col-md-6 mb-4">
-      
-              <!--Image-->
-              <div class="view overlay z-depth-1-half">
-                <img src="https://www.pngall.com/wp-content/uploads/15/Jujutsu-Kaisen-PNG-Cutout.png  " class="img-fluid"
-                  alt="">
-                <a href="">
-                
-                  <!-- <div class="mask rgba-white-light"> -->
-                    
-                  </div>
-                </a>
-                
-              </div>
-            </div>
-          </div>
-        </div>
-      </footer>
-
-
-
-
-
-
-
-
+           
