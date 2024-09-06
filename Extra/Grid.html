@@ -1,84 +1,93 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Grid Example</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <style>
-      .grid-item{
-          border: 2px solid rgb(223, 221, 224);
-          border-radius: 2px;
-          padding: 30px;
-          text-align:center;
-          background-color: rgb(45, 152, 240);
-          /* grid-template-rows: 2fr 2fr 6fr;
+        .grid-item {
+            border: 2px solid rgb(223, 221, 224);
+            border-radius: 2px;
+            padding: 30px;
+            text-align: center;
+            background-color: rgb(45, 152, 240);
+            /* grid-template-rows: 2fr 2fr 6fr;
          grid-template-columns: 1fr 1fr 5fr; */
-         font-weight: bolder;
-         color: beige;
-         font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-         
+            font-weight: bolder;
+            color: beige;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 
-      }
-      .grid-container{
-          display: grid;
-         grid-template-columns: 1fr 1fr 3fr ;
-         grid-gap: 10px;
-         font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-         
-      }
-      .grid-item4{
-         border: 2px solid rgb(213, 207, 218);
-         /* grid-template-rows: 2fr 2fr 6fr;
+
+        }
+
+        .grid-container {
+            margin: 10px;
+            display: grid;
+            grid-template-columns: 1fr 1fr 3fr;
+            grid-gap: 10px;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+        }
+
+        .grid-item4 {
+            border: 2px solid rgb(213, 207, 218);
+            /* grid-template-rows: 2fr 2fr 6fr;
          grid-template-columns: 1fr 1fr 5fr; */
-          border-radius: 5px;
-          padding: 70px;
-          text-align:center;
-          background-color: rgb(18, 92, 202);
-          font-weight: bold;
-          font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-          color: bisque;
-          
+            border-radius: 5px;
+            padding: 70px;
+            text-align: center;
+            background-color: rgb(18, 92, 202);
+            font-weight: bold;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            color: bisque;
 
-      }
-  </style>
 
-        
+        }
+    </style>
+
+
 </head>
+
 <body>
-   <h1 style="display:flex;justify-content: center;font-weight: bolder;font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;color: aqua;">"GRID MODEL CREATION...."</h1>
+    <h3
+        style="display:flex;justify-content: center;font-weight: bolder;font-family: sans-serif;">
+        "GRID MODEL CREATION...."</h3>
 
     <div class="grid-container">
         <div class="grid-item">HTML 5
-         <i class=" fa-4x fa-brands fa-html5"></i>
+            <i class=" fa-4x fa-brands fa-html5"></i>
 
         </div>
         <div class="grid-item">CSS 3
-         <i class="fa-4x fa-brands fa-css3-alt"></i>
+            <i class="fa-4x fa-brands fa-css3-alt"></i>
         </div>
         <div class="grid-item">Bootstrap
-         <i class="fa-4x fa-brands fa-bootstrap"></i>
+            <i class="fa-4x fa-brands fa-bootstrap"></i>
         </div>
         <div class="grid-item4">mongoDb
-         <i class="fa-5x fa-solid fa-database"></i>
+            <i class="fa-5x fa-solid fa-database"></i>
         </div>
         <div class="grid-item4">Express.js
-         <i class=" fa-4x fa-solid fa-laptop-code"></i>
+            <i class=" fa-4x fa-solid fa-laptop-code"></i>
         </div>
-       
+
         <div class="grid-item4">React.js
-         <i class="fa-5x fa-brands fa-react"></i>
+            <i class="fa-5x fa-brands fa-react"></i>
         </div>
         <div class="grid-item">Next JS
-         <i class="fa-4x fa-solid fa-terminal"></i>
+            <i class="fa-4x fa-solid fa-terminal"></i>
         </div>
         <div class="grid-item">Node JS
-         <i class=" fa-4x fa-brands fa-node"></i>
+            <i class=" fa-4x fa-brands fa-node"></i>
         </div>
         <div class="grid-item">JavaScript
-         <i class=" fa-4x fa-brands fa-js"></i>
+            <i class=" fa-4x fa-brands fa-js"></i>
         </div>
     </div>
 </body>
+
 </html>
